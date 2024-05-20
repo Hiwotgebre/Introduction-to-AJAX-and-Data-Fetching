@@ -21,3 +21,5 @@ document.getElementById('fetch-quote').addEventListener('click', () => {
         document.getElementById('quote-container').innerHTML = 'Failed to fetch quote.';
     });
 });
+
+
